@@ -1,6 +1,0 @@
-Copyright (c) 2025 Emmanuel Bravo Delgado
-
-Todos los derechos reservados.
-Este software y su base de datos son propiedad del autor.
-No se permite copia, distribución o uso sin autorización expresa.
-Para obtener la base de datos y poder implementar el sistema, contacta al autor.
