@@ -1,0 +1,11 @@
+# Ignorar archivos SQL
+*.sql
+
+# Ignorar archivos temporales de PHPStorm / VSCode
+*.log
+*.tmp
+.idea/
+.vscode/
+
+# Ignorar vendor si usas composer
+/vendor/
