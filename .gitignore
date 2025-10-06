@@ -9,3 +9,8 @@
 
 # Ignorar vendor si usas composer
 /vendor/
+
+
+# Entornos virtuales y repositorios clonados
+venv/
+*.git/
